@@ -160,8 +160,8 @@ noComp.addEventListener('click', nonMostraTutto);
 
 
 
-const client_id = 'b25127751b9344e29b9ed0004f887f9c';
-const client_secret = '293d6497d4854d57b2567da851aa0b3c';
+const client_id = 'secret';
+const client_secret = 'sectret';
 
 let token;
 
